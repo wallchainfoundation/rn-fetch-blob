@@ -1,7 +1,8 @@
 package com.RNFetchBlob;
 
-import android.support.annotation.NonNull;
 import android.util.Base64;
+
+import androidx.annotation.NonNull;
 
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.ReactApplicationContext;
